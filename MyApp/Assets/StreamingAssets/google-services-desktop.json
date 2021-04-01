@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "786522597538",
+    "firebase_url": "https://myapp-2d217.firebaseio.com",
+    "project_id": "myapp-2d217",
+    "storage_bucket": "myapp-2d217.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786522597538:android:e9d80314ea54289aea0ffb",
+        "android_client_info": {
+          "package_name": "com.Lucazia.MyApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786522597538-oec4r6vikdo70e17883ju19pdhpqcccn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAugL418aajyfIpFTj5ltb4nsTHk97Sxs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786522597538-oec4r6vikdo70e17883ju19pdhpqcccn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
